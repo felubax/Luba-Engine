@@ -20,8 +20,6 @@ project contributors, this is just to get better, the name will not impact on th
 To be continued..
 
 ===========
-===========
-===========
 
 Objectives:
 ===========
