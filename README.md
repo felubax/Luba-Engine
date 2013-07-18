@@ -18,3 +18,13 @@ Who the f%!k cares? This project aims to be a technical-practice to learn method
 project contributors, this is just to get better, the name will not impact on that.
 
 To be continued..
+
+===========
+===========
+===========
+
+Objectives:
+===========
+#1: Print a sprite:
+First objective I think we can do. Code the initialitation functions, and Luba-Engine functions for the Sprites creation, and Print-on-screen processes.
+STATUS: Not init
